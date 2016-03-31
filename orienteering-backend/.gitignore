@@ -4,6 +4,7 @@ build/
 
 # Maven
 target/
+/.mvn
 
 # Eclipse
 .classpath
@@ -15,4 +16,5 @@ bin/
 *.iws
 *.ipr
 *.iml
+/.idea
 
